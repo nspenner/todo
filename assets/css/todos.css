@@ -2,4 +2,10 @@
     background-color: lightgray;
     margin: 0 auto;
     width: 360px;
+    border: 1px solid slategray;
+}
+
+.completed {
+    color: gray;
+    text-decoration: line-through;
 }
