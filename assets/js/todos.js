@@ -26,5 +26,5 @@ $("input[type='text']").keypress(function(event) {
 
 // Form toggle functionality
 $(".fa-plus-square").click(function() {
-    $("input[type='text']").fadeToggle();
+    $("input[type='text']").fadeToggle(200);
 });
